@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-sarpycounty",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Sarpy County GIS — Sarpy County, Nebraska open geospatial data (ArcGIS).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "arcgis-sarpycounty",
     "gatewaySlug": "arcgis-sarpycounty",
-    "sourceHash": "v1-27a0ffabbaec9b06edaa81673150fd030e81f96f518f4e7101594bc94c48cd9e",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-cb56453ac3136562b9cbbc3e44508a453cab6b4913444016e0f5a92970566652",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
